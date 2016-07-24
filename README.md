@@ -1,4 +1,4 @@
-# Current Version : 1.0.3
+# Current Version : 1.0.0
 
 
 Toyosatomimi Files CMS (ToyoCMS) is a CMS Files Hosting has basic power to Upload,Delete and Management user.Use HTML5,PHP,Bitnami CSS Stylesheet make ToyoCMS has simple template and powerfull CMS.
@@ -19,9 +19,11 @@ What we goal:
 - [X] First Step
 - [X] Upload function and account system
 - [X] Support Android and other platfom
-- [ ] Implement Bootstrap on CMS
-- [ ] Thumbs for most picture like JPG,PNG or other.
-- [ ] Admin Panel
+- [Cancel] Implement Bootstrap on CMS - use Bitnami CSS
+- [X] Thumbs for most picture like JPG,PNG or other.
+- [...] Admin Panel - Process
+- [ ] MP3 Tag Script Implement
+- [..] Improve most security on account - Not countable
 
 ---------------
 

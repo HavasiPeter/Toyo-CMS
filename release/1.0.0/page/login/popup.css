@@ -1,0 +1,16 @@
+	#eror{
+		width:345px;;
+		border:red 1px solid;
+		margin-left:auto;
+		margin-right:auto;
+		margin-bottom:5px;
+		padding:0 0 0 5px;
+	}
+	#msg{
+		width:345px;;
+		border:green 1px solid;
+		margin-left:auto;
+		margin-right:auto;
+		margin-bottom:5px;
+		padding:0 0 0 5px;
+	}
